@@ -22,11 +22,15 @@ Connect the HX711 module to the Arduino board as follows:
 
   
 Connect the Load cell module to the HX711 as follows:
+
 The wires coming from the load cell usually have the following colors:
 
 Red: VCC (E+)
+
 Black: GND (E-)
+
 White: Output – (A-)
+
 Green: Output + (A+)
   
 ## Wiring diagram
