@@ -19,6 +19,15 @@ Connect the HX711 module to the Arduino board as follows:
 - *HX711 SCK/Serial Clock* to *Digital Pin 3 (Arduino)*
 - *HX711 VCC* to *5V (Arduino)*
 - *HX711 GND* to *GND (Arduino)*
+
+  
+Connect the Load cell module to the HX711 as follows:
+The wires coming from the load cell usually have the following colors:
+
+Red: VCC (E+)
+Black: GND (E-)
+White: Output – (A-)
+Green: Output + (A+)
   
 ## Wiring diagram
 ![image](https://github.com/Shivani9698/LoadCell_Weight_scale/assets/119753029/0fa5962f-8b07-4b83-a01f-23bebe63e64a)
