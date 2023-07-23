@@ -25,7 +25,9 @@ Connect the HX711 module to the Arduino board as follows:
 
 ## How to install library
 1.We’ll use the HX711 library by bodge. It is compatible with the ESP32, ESP8266, and Arduino.
+
 2.Open Arduino IDE and go to Sketch > Include Library > Manage Libraries.
+
 3.Search for “HX711 Arduino Library” and install the library by Bogdan Necula.
 
 ![image](https://github.com/Shivani9698/LoadCell_Weight_scale/assets/119753029/18c2e803-8d54-4eb8-a792-b59ae9ecdcb8)
